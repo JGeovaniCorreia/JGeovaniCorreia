@@ -13,7 +13,7 @@
 
 - 📄 Minhas experiências podem ser vistas em (https://www.linkedin.com/in/geovanicorreia/)
 
-- 💼 Meu Portfólio de Projetos pode ser visto nos repositórios desta rede, todos que começarem por "Portfólio" 
+- 💼 Meu Portfólio de Projetos pode ser visto nos repositórios desta rede, todos que começarem por "Portfólio" 👉🏾[aqui](https://github.com/JGeovaniCorreia?tab=repositories)
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgeovanicorreia&label=Profile%20views&color=0e75b6&style=flat" alt="jgeovanicorreia" /> </p>
 
 <h3 align="left">Conecte-se comigo:</h3>
