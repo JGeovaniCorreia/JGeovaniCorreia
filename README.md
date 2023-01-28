@@ -3,7 +3,7 @@
   
 
     
-- 👩🏾‍💻 Analista de Dados na @Usadosbr **https://www.usadosbr.com/**
+- 👩🏾‍💻 Analista de Dados na @Usadosbr 🚙🚘🛵 **https://www.usadosbr.com/** 🚙🚘🛵
 
 - 🌱 Atualmente estou aprendendo **Google Analytics, Power BI, DAX, Python, Machine Learning e Estatística.**
 
