@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋 eu sou Geovani Correia</h1>
-<h3 align="center">Apaixonado por Dados, sua ciência e como eles descrevem o passado, compreendem o presente e seu incrível potencial para influenciar o futuro ! 🧠🔎🧪🔬🎲</h3>
+<h3 align="center">Apaixonado por Dados, sua ciência e como eles descrevem o passado, compreendem o presente e seu incrível potencial para influenciar o futuro! 🧠🔎🧪🔬🎲</h3>
 
 - 🌱 Atualmente estou aprendendo **Google Analytics, Power BI, DAX, Python, Machine Learning e Estatística.**
 
