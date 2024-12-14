@@ -3,9 +3,9 @@
   
 
     
-- 👩🏾‍💻 Analista de Dados na @Usadosbr 🚙🚘🛵 **https://www.usadosbr.com/** 🚙🚘🛵
+- 👩🏾‍💻 Analista de Dados no ITAU UNIBANCO 🟧  **https://www.itau.com.br/** 
 
-- 🌱 Atualmente estou aprendendo **Google Analytics, Power BI, DAX, Python, Machine Learning e Estatística.**
+- 🌱 Atualmente estou aprendendo **Python, Machine Learning, Estatística e Data Science.**
 
 - 💬 Me pergunte sobre **Power BI, Python, SQL, Excel, Google Sheets, Business Intelligence e Data Science.**
 
