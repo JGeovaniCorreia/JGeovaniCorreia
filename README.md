@@ -5,7 +5,7 @@
     
 - 👩🏾‍💻 Analista de Dados no ITAU UNIBANCO 🟧  **https://www.itau.com.br/** 
 
-- 🌱 Atualmente estou aprendendo **Python, Machine Learning, Estatística e Data Science.**
+- 🌱 Atualmente estou aprendendo **Python, Machine Learning, Estatística e Data Science como um todo.**
 
 - 💬 Me pergunte sobre **Power BI, Python, SQL, Excel, Google Sheets, Business Intelligence e Data Science.**
 
