@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋 eu sou Geovani Correia</h1>
-<h3 align="center">Apaixonado por Dados, sua ciência e como eles descrevem o passado, compreendem o presente e seu incrível potencial para influenciar o futuro! 🧠🔎🧪🔬🎲</h3>
+<h3 align="center">Apaixonado por dados, pela ciência que os envolve e por como eles não apenas descrevem o passado e compreendem o presente, mas também têm um incrível potencial para moldar o futuro!! 🧠🔎🧪🔬🎲</h3>
   
 
     
