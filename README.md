@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋 eu sou Geovani Correia</h1>
+<h1 align="center">Olá 👋 eu sou José Geovani Correia</h1>
 <h3 align="center">Apaixonado por dados, pela ciência que os envolve e por como eles não apenas descrevem o passado e compreendem o presente, mas também têm um incrível potencial para moldar o futuro!! 🧠🔎🧪🔬🎲</h3>
   
 
